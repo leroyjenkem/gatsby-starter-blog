@@ -113,9 +113,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `My Gatsby-powered Portfolio`,
         short_name: `GatsbyJS`,
-        start_url: `/`,
+        start_url: `/portfolio`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
