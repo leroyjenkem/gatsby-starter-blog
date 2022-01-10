@@ -6,7 +6,7 @@ module.exports = {
       summary: `who'd be delighted if lightning struck them down in 5 seconds from now.`,
     },
     description: `My Portfolio with data sourced from WordPress`,
-    siteUrl: `https://lindeman.tk/portfolio/`,
+    siteUrl: `https://lindeman.tk/`,
     social: {
       twitter: `no-twitter`,
     },
